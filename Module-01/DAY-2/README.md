@@ -16,8 +16,8 @@ To write a Java program to calculate total and percentage marks obtained by Robe
 ```
 /*
 Program to calculate total and percentage marks using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Charankumar R
+RegisterNumber: 212222060031
 */
 ```
 
