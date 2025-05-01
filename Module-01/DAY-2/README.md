@@ -37,11 +37,7 @@ public class main {
         double percentage = (total / 3.0);
 
         System.out.println("Total marks (out of 300): " + total);
-        if(a == 67){
-            System.out.println("Percentage: 83.33333333333334%");
-        } else {
-            System.out.println("Percentage: " + percentage + "%");
-        }
+        System.out.println("Percentage: " + percentage + "%");
     }
 }
 ```
