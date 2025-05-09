@@ -1,4 +1,4 @@
-# Ex.No:4(D) PROGRAM TO WRITE COMMON DATA INTO TWO FILES USING ByteArrayOutputStream
+# Ex.No:9(B) PROGRAM TO WRITE COMMON DATA INTO TWO FILES USING ByteArrayOutputStream
 
 ## AIM:
 To write a Java program that writes the multiplication of two integers into two files (F1.txt and F2.txt) using `ByteArrayOutputStream`.
