@@ -22,7 +22,7 @@ RegisterNumber: 212222060031
 */
 ```
 
-## 4E_PRINT_STRING_USING_STRINGWRITER.JAVA:
+## 9C_PRINT_STRING_USING_STRINGWRITER.JAVA:
 ```java
 import java.io.StringWriter;
 import java.util.Scanner;
