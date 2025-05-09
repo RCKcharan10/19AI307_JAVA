@@ -1,4 +1,4 @@
-# Ex.No:10 READING DATA FROM CONSOLE USING InputStreamReader AND BufferedReader
+# Ex.No:8(E) READING DATA FROM CONSOLE USING InputStreamReader AND BufferedReader
 
 ## AIM:
 To write a Java program for reading data from the console using `InputStreamReader` and `BufferedReader`.
