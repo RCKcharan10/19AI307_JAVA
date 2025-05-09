@@ -19,7 +19,7 @@ RegisterNumber: 212222060031
 */
 ```
 
-## 10A_READING_DATA_FROM_CONSOLE.JAVA:
+## 8E_READING_DATA_FROM_CONSOLE.JAVA:
 ```java
 import java.io.*;
 
