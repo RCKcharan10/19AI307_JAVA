@@ -22,7 +22,7 @@ RegisterNumber: 212222060031
 */
 ```
 
-## 4D_WRITE_COMMON_DATA_TO_FILES.JAVA:
+## 9B_WRITE_COMMON_DATA_TO_FILES.JAVA:
 ```java
 import java.io.*;
 import java.util.*;
