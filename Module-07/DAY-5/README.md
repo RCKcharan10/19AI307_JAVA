@@ -1,4 +1,4 @@
-# Ex.No:7(A) THREAD CREATION USING RUNNABLE INTERFACE
+# Ex.No:7(E) THREAD CREATION USING RUNNABLE INTERFACE
 
 ## AIM:
 To write a Java program to create a Thread using the Runnable Interface and get a double value from the user.
