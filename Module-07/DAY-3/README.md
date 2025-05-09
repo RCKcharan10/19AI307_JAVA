@@ -1,4 +1,4 @@
-# Ex.No:7(A) THREAD CREATION USING `extends Thread`
+# Ex.No:7(C) THREAD CREATION USING `extends Thread`
 
 ## AIM:
 To write a Java program to create a thread using the `Thread` class by extending it and display the thread name input by the user.
