@@ -1,4 +1,4 @@
-# Ex.No:12(B) MAP INTERFACE WITH COMPARINGBYKEY IN DESCENDING ORDER
+# Ex.No:12(E) MAP INTERFACE WITH COMPARINGBYKEY IN DESCENDING ORDER
 
 ## AIM:
 To write a Java program for the Map interface concept and display the keys and values using `comparingByKey()` in descending order.
